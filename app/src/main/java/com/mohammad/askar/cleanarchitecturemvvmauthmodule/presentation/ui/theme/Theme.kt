@@ -1,4 +1,4 @@
-package com.mohammad.askar.cleanarchitecturemvvmauthmodule.ui.theme
+package com.mohammad.askar.cleanarchitecturemvvmauthmodule.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
